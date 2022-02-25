@@ -1,0 +1,71 @@
+{
+  "user": [
+    {
+      "name": "Prasad",
+      "email": "Prasad@gmail.com",
+      "phone": "1234562131",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "name": "Prasad",
+      "email": "Prasad@gmail.com",
+      "phone": "1234562131",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "name": "vishal",
+      "email": "vishal@gmail.com",
+      "phone": "123456789",
+      "password": "123",
+      "id": 7
+    }
+  ],
+  "image": [
+    {
+      "category": "Nature",
+      "userid": "5",
+      "username": "Prasad",
+      "link": "https://www.dqindia.com/wp-content/uploads/2015/11/cybage-723x420.jpg",
+      "Date": "2/23/2022, 11:49:39 PM",
+      "hashtag": "#tag",
+      "id": "2BZO7Pk"
+    },
+    {
+      "category": "Selfie",
+      "userid": "5",
+      "username": "Prasad",
+      "link": "https://www.dqindia.com/wp-content/uploads/2015/11/cybage-723x420.jpg",
+      "Date": "2/24/2022, 11:49:47 PM",
+      "hashtag": "#Cybage",
+      "id": "_wpu2cq"
+    },
+    {
+      "category": "Wildlife",
+      "userid": "7",
+      "username": "vishal",
+      "link": "https://www.dqindia.com/wp-content/uploads/2015/11/cybage-723x420.jpg",
+      "Date": "2/25/2022, 11:43:24 AM",
+      "hashtag": "#Cybage1",
+      "id": "WeDXNbk"
+    },
+    {
+      "category": "Nature",
+      "userid": "5",
+      "username": "Prasad",
+      "link": "https://www.dqindia.com/wp-content/uploads/2015/11/cybage-723x420.jpg",
+      "Date": "2/25/2022, 2:45:14 PM",
+      "hashtag": "",
+      "id": "sWfUl3c"
+    }
+  ],
+  "likes":[
+    {
+      "id": "WeDXNbk",
+      "username":"Prasad",
+      "imageLikes": "0",
+      "likeId": "1"
+    }
+  ]
+}
